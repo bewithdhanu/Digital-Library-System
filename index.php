@@ -13,7 +13,7 @@ if(isset($_SESSION["user_id"])) {
 <html>
 <head>
 <link rel="icon" href="icon.jpeg" type="image/x-icon">
-<title>Digital Library System</title>
+<title>Online Library System</title>
 <link href="css/style.css" rel="stylesheet" type="text/css" />
 </head>
 

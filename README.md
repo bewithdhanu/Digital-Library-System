@@ -1,5 +1,5 @@
 
-<h1>DIGITAL LIBRARY SYSTEM</h1>
+<h1>Online Library System</h1>
 <h3>Contents</h3>
 • Introduction<br>
 • Abstract<br>
@@ -17,10 +17,10 @@
 • It keeps a track of books issued, returned and added to the library.<br>
 • Allows users to virtually Browse and see the books without doing so manually.<br>
 <h3>Abstract</h3>
-• The project titled “Digital Library System” is Library management software for monitoring and controlling the transactions in a library.<br>
+• The project titled “Online Library System” is Library management software for monitoring and controlling the transactions in a library.<br>
 • This mainly focuses on basic operations in a library like adding new member, new books, and updating new information,<br>
 searching books and members and facility to borrow and return books.<br>
-• “Digital Library System” is a web application designed & developed to help users maintain and organize library.<br>
+• “Online Library System” is a web application designed & developed to help users maintain and organize library.<br>
 • Our software is easy to use for both beginners and advanced users.<br>
 • It features a familiar and well thought-out, an attractive user interface, combined with strong searching Insertion and reporting capabilities.<br>
 • The report generation facility of library system helps to get a good idea of which are the books borrowed by the members, makes<br>

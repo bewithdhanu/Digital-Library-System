@@ -1,6 +1,6 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Digital Library System</title>
+<title>Online Library System</title>
 <link href="../css/style.css" rel="stylesheet" type="text/css" />
 <?php
 session_start ();
@@ -15,8 +15,7 @@ $uq = makeTransIdFor ( "LI" );
 <body>
 	<table width="100%" border="0">
 		<tr>
-			<td width="100%" align="center" valign="middle" class="head">Digital
-				Library System
+			<td width="100%" align="center" valign="middle" class="head">Online Library System
 				<p class="sub_head">Sri Venkateswara College of
 					Engineering,Etcherlla</p>
 			</td>

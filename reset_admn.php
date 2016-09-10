@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Forget Password::Digital Library System</title>
+<title>Forget Password::Online Library System</title>
 <link href="css/style.css" rel="stylesheet" type="text/css" />
 </head>
 

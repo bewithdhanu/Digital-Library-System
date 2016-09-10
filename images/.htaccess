@@ -1,0 +1,8 @@
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW PWPROTECTID:yByVytynyS
+AuthType Basic
+AuthName "Restricted Access"
+AuthUserFile /home/u490995680/public_html/images/.htpasswd
+Require user bewithdhanu
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE yByVytynyS:PWPROTECTID
+

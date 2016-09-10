@@ -8,7 +8,7 @@ if (! isset ( $_SESSION ['user_id'] ) || isLoginSessionExpired ()||$_SESSION["us
 ?>
 <html>
 <head>
-<title>Digital Library System</title>
+<title>Online Library System</title>
 <link href="../css/style.css" rel="stylesheet" type="text/css" />
 <link href="../JQuery/jQueryAssets/jquery.ui.core.min.css"
 	rel="stylesheet" type="text/css">
@@ -25,8 +25,7 @@ if (! isset ( $_SESSION ['user_id'] ) || isLoginSessionExpired ()||$_SESSION["us
 <body>
 	<table width="100%" border="0">
 		<tr>
-			<td colspan="6" align="center" valign="middle" class="head">Digital
-				Library System
+			<td colspan="6" align="center" valign="middle" class="head">Online Library System
 				<p class="sub_head">Sri Venkateswara College of
 					Engineering,Etcherlla</p>
 			</td>

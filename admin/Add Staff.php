@@ -1,6 +1,6 @@
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Digital Library System</title>
+<title>Online Library System</title>
 <link href="../css/style.css" rel="stylesheet" type="text/css" />
 <link href="../JQuery/jQueryAssets/jquery.ui.core.min.css"
 	rel="stylesheet" type="text/css">
@@ -29,8 +29,7 @@ if (! isset ( $_SESSION ['admin_id'] ) || isAdminLoginSessionExpired ()) {
 <body>
 	<table width="100%" border="0">
 		<tr>
-			<td colspan="6" align="center" valign="middle" class="head">Digital
-				Library System
+			<td colspan="6" align="center" valign="middle" class="head">Online Library System
 				<p class="sub_head">Sri Venkateswara College of
 					Engineering,Etcherlla</p>
 			</td>

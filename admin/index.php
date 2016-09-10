@@ -8,15 +8,14 @@ if (! isset ( $_SESSION ['admin_id'] )||isAdminLoginSessionExpired()) {
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Digital Library System</title>
+<title>Online Library System</title>
 <link href="../css/style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
 
 <table width="100%" border="0">
   <tr>
-    <td align="center" valign="middle" class="head">Digital Library
-      System
+    <td align="center" valign="middle" class="head">Online Library System
       <p class="sub_head">Sri Venkateswara College of
     Engineering,Etcherlla</p></td>
   </tr>

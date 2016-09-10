@@ -7,7 +7,7 @@ if (! isset ( $_SESSION ['user_id'] )||isAdminLoginSessionExpired()||$_SESSION["
 ?>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Digital Library System</title>
+<title>Online Library System</title>
 <link href="../css/style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>

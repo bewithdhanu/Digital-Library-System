@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Digital Library System</title>
+<title>Online Library System</title>
 <link href="css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
