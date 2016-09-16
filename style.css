@@ -1,0 +1,80 @@
+@charset "utf-8";
+.head {
+	font-size: xx-large;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+}
+.sub_head {
+	font-size: large;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+table.dtable {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th.dth, td.dtd {
+    text-align: left;
+    padding: 8px;
+}
+tr.dtr:nth-child(even){background-color: #C0C0C0}
+
+th.dth {
+    background-color: #4CAF50;
+    color: white;
+}
+a.a1 {
+	color: #024378;
+	text-decoration: none;
+}
+a.a1:hover {
+	color: #04569A;
+	text-decoration: underline;
+}
+body {
+	padding: 1em 3em;
+	font: 100%/1.4 tahoma, arial, helvetica, lucida sans, sans-serif;
+	background: #eee;
+	position: relative;
+}
+.message{
+	border: #008000 1px solid;
+	background: #c7f1cd;
+	padding: 5px 20px;
+}
+.warning{
+	border: #FF0000 1px solid;
+	background: #FFE7E7;
+	padding: 5px 20px;
+}
+.search {
+     padding:8px 15px;
+     border:1px solid #207cca;
+	 width:50%;
+}
+.searchform{
+	padding:8px 15px;
+	background-image: url(bg.png);
+	background-repeat: repeat;
+	background-position: right bottom;
+}
+.button {
+	position: static;
+	padding: 6px 15px;
+	border: 2px solid #207cca;
+	background-color: #207cca;
+	color: #fafafa;
+}
+.button:hover  {
+	background-color: #fafafa;
+	color: #207cca;
+}
+.searchHead {
+	font-size: medium;
+	color: #000000;
+	text-decoration: none;
+	font-weight:bold;
+}
+.searchSub {
+	font-size: small;
+}
