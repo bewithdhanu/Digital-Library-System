@@ -1,8 +1,8 @@
 <?php
-$servername = "mysql.hostinger.in";
-$username = "u490995680_dhanu";
-$password = "Dhanu@1995";
-$dbname = "u490995680_lms";
+$servername = "SERVER NAME";
+$username = "USER NAME";
+$password = "PASSWORD";
+$dbname = "DATABASE";
 // Create connection
 $conn = mysqli_connect ( $servername, $username, $password, $dbname );
 // Check connection
